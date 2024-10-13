@@ -1,6 +1,7 @@
 Chess Game
 ---------------------------------------------------------------------------------------
-Overview
+Overview : 
+
 The Chess Game is a Java-based application that utilizes Object-Oriented Programming (OOP) principles to create a fully functional chess game. The application features a graphical representation of the chessboard, allowing users to play against each other or an AI opponent.
 ---------------------------------------------------------------------------------------
 Features
